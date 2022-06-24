@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("master update");
         System.out.println("dev test");
         System.out.println("123456");
+        System.out.println("gitee test");
     }
 }
